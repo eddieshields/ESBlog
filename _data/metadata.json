@@ -1,9 +1,9 @@
 {
-  "title": "Your Blog Name",
+  "title": "Eddie Shields Blog",
   "url": "https://example.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "I am writing about my experiences as a PhD student with LHCb.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "LHCb is part of CERN.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
@@ -13,8 +13,8 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
+    "name": "Eddie Shields",
+    "email": "edward.brendan.shields@cern.ch",
     "url": "https://example.com/about-me/"
   }
 }
